@@ -1,0 +1,7 @@
+name DrawingAndView
+startup dll 
+allow_stop TRUE 
+exec_file C:\Users\HP\Desktop\toolkit\DrawingAndView\x64\Debug\DrawingAndView.dll
+text_dir C:\Users\HP\Desktop\toolkit\DrawingAndView\text
+revision   18.0
+end

@@ -1,0 +1,76 @@
+﻿DrawingAndView  
+Generate a drawing file with the same name and views  
+Generate a drawing file with the same name and views  
+#
+
+CreateDrw  
+Create Drw  
+Create Drw  
+#
+
+CreateDrwtips  
+Generate a drawing file with the same name  
+Generate a drawing file with the same name  
+#
+
+CreateView  
+Create views  
+Create views  
+#
+
+CreateViewtips  
+Generate three standard views  
+Generate three standard views  
+#
+CreateDimension  
+Create Dimension  
+Create Dimension  
+#
+
+CreateDimensiontips  
+Create Dimension in one view   
+Create Dimension in one view 
+#
+
+
+
+
+CreateAuxiliaryView  
+Generate an auxiliary view  
+Generate an auxiliary view  
+#
+
+CreateAuxiliaryViewtips  
+Generate an auxiliary view  
+Generate an auxiliary view  
+#
+
+CreateDetailedView  
+Generate a detailed view  
+Generate a detailed view  
+#
+
+CreateDetailedViewtips  
+Generate a detailed view  
+Generate a detailed view  
+#
+
+Create2DSectionView  
+Generate a section view  
+Generate a section view  
+#
+
+Create2DSectionViewtips  
+Generate a section view  
+Generate a section view  
+#
+
+CreateRevolveView  
+Generate a revolved view  
+Generate a revolved view  
+#
+
+CreateRevolveViewtips  
+Generate a revolved view  
+Generate a revolved view  
+#
